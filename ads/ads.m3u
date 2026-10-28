@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="DIKTA TV" group-title="DIKTA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/APK%20Dikta%20P.png",V8 (MERAH)
+https://github.com/aderandi/apk-diktatv/releases/download/v8/DIKTATV-Merah-8.apk
+
+#EXTINF:-1 tvg-name="DIKTA TV" group-title="DIKTA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/APK%20Dikta.png",V7.2 (BIRU)
+https://sfile.co/QGWunZDrlGM
+
+#EXTINF:-1 tvg-name="DIKTA TV" group-title="DIKTA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/APK%20TELE.png",TELEGRAM
+https://t.me/diktatv
+
+#EXTINF:-1 tvg-name="DIKTA TV" group-title="DIKTA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/APK%20IG.png",INSTAGRAM
+https://instagram.com/diktatv
+
