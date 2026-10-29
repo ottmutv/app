@@ -1,5 +1,5 @@
 {
   "name": "Playlist",
   "type": "m3u",
-  "url": "https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/ads/ads.m3u"
+  "url": "https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/ads/playlist.m3u"
 }
