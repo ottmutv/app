@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/CNN.png",CNN INDONESIA
+https://www.youtube.com/watch?v=PDDOkUq33Sw
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/TVONE.png",TVONE
+https://www.youtube.com/watch?v=rQJoEpzKkNk
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/KOMPASTV.png",KOMPAS TV
+https://www.youtube.com/watch?v=DOOrIxw5xOw
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/METROTV.png",METRO TV
+https://www.youtube.com/watch?v=oUYnZv_G82Q
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/SINDONEWS.png",SINDO NEWS
+https://www.youtube.com/watch?v=cgWhVKukqBg
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/INEWS.png",INEWS
+https://www.youtube.com/watch?v=UMe1AKUyUN0
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/IDX.png",IDX CHANNEL
+https://www.youtube.com/watch?v=hjCkB9XRpkU
+
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/ASTROAWANI.png",ASTRO AWANI
+https://www.youtube.com/watch?v=mkVyNaGee8A
+
