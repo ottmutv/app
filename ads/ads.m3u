@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/APK%20TELE.png",TELEGRAM
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/APK%20TELE.png",TELEGRAM
 https://t.me/mutv01
 
-#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/APK%20IG.png",INSTAGRAM
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/APK%20IG.png",INSTAGRAM
 https://instagram.com/mutv001
 
