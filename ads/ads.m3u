@@ -1,8 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MUTV.png",MUTV
+https://sfile.co/XnHucwvo2yP
 
-#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/APK%20IG.png",INSTAGRAM
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MUTV.png",MUTV PLAYER
+https://sfile.co/5USXkR7zyoP
+
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/INSTAGRAM.png",INSTAGRAM
 https://instagram.com/mutv001
 
-#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://e7.pngegg.com/pngimages/549/406/png-clipart-computer-icons-thank-love-heart.png",TES
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/TERIMAKASIH.png",TES
 https://saweria.co/mutv01
