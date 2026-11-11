@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MUTV.png",MUTV
-https://sfile.co/XnHucwvo2yP
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MUTV.png",MUTV 1.1
+https://sfile.co/oMHMTndDWxU
 
-#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MUTV.png",MUTV PLAYER
+#EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MUTV.png",MUTV PLAYER 1
 https://sfile.co/5USXkR7zyoP
 
 #EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/INSTAGRAM.png",INSTAGRAM
