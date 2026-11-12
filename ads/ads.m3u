@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MASKOTMUTV.png",-MUTV-
+https://raw.githubusercontent.com/ottmutv/app/main/ads/iklan.mp4
+
 #EXTINF:-1 tvg-name="MUTV" group-title="MUTV" tvg-logo="https://raw.githubusercontent.com/ottmutv/app/refs/heads/main/icon/MUTV.png",MUTV 1.1
 https://sfile.co/oMHMTndDWxU
 
